@@ -5,4 +5,4 @@ Main ReadMe file description.
 ![image](https://github.com/user-attachments/assets/43dfaebb-d975-4f85-9bd7-09f8bd4aeeaa)
 ![image](https://github.com/user-attachments/assets/b2382f91-7520-4224-8610-a282d5f3d871)
 ![image](https://github.com/user-attachments/assets/a2a3b442-6d10-4912-9fe0-30b23b3cc457)
-![image](https://github.com/user-attachments/assets/2a3d84c3-30a7-4464-a2fd-162c9e3e2fb3)
+![image](https://github.com/user-attachments/assets/7d639991-baa1-4234-8047-543878181b87)
