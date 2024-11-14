@@ -1,5 +1,7 @@
 Main ReadMe file description.
 
+![image](https://github.com/user-attachments/assets/08f2fdfe-2cf2-4899-9a79-b4980a20b87f)
+
 ![image](https://github.com/user-attachments/assets/99526b33-862d-4643-a002-12fb33860725)
 ![image](https://github.com/user-attachments/assets/5670b73a-cc09-4b6f-adb6-284bf0c85317)
 ![image](https://github.com/user-attachments/assets/43dfaebb-d975-4f85-9bd7-09f8bd4aeeaa)
