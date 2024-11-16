@@ -18,7 +18,7 @@ O propósito deste trabalho na disciplina de Engenharia de Software I é proporc
 Grupo: Ariany de Holanda, Beatriz Lima e Carlos Vinícius
 ##
 
-***Etapas***:  
+### ***Etapas***:  
 
 **Etapa 1 – Requisitos – Diagrama de Casos de Uso**
 - Identificar os atores  
